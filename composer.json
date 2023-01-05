@@ -1,0 +1,13 @@
+{
+  "name": "damiwork/php-logmanager",
+  "description": "LogManager",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "LogManager\\": "src/"
+    }
+  },
+  "license": "MIT"
+}
