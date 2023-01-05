@@ -1,0 +1,2 @@
+# php-logmanager
+PHP / LogManager
